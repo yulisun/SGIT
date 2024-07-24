@@ -1,1 +1,1 @@
-SGIT for Unsupervised Heterogeneous Change Detection.
+SGIT for Unsupervised Heterogeneous Change Detection
